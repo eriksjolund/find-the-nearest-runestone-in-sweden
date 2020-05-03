@@ -14,7 +14,7 @@ Wikipedia: [Runestones](https://en.wikipedia.org/wiki/Runestone)
 5. If a popup message with the text "Zooma in mer i kartan för att aktivera ritfunktionen" appears,
 you need to zoom in more.
 6. The left side menu now disappears. Under the mouse pointer you will see a black circle. Move the mouse pointer
-and click the corners of an polygon, that will be defining the area where you want to search for runestones. Click again
+and click the corners of a polygon, that will be defining the area where you want to search for runestones. Click again
 the starting point (the first polygon corner). Now the green button _KLAR_ gets enabled. Click the green button _KLAR_.
 7. The left side menu reappaers.
 8. In the drop-down list _Filtrera på kategori_, choose _Ristningar, hällmålningar och minnesmärken_.
