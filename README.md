@@ -11,7 +11,7 @@ Wikipedia: [Runestones](https://en.wikipedia.org/wiki/Runestone)
 3. Click _SÖK_ in the upper right corner.
 3. Click _Sök lämning_ 
 4. Click _rita geografiskt område_
-5. If a popup message with the text "Zooma in mer i kartan för att aktivera ritfunktionen" appears,
+5. If a popup message with the text _Zooma in mer i kartan för att aktivera ritfunktionen_ appears,
 you need to zoom in more.
 6. The left side menu now disappears. Under the mouse pointer you will see a black circle. Move the mouse pointer
 and click the corners of a polygon, that will be defining the area where you want to search for runestones. Click again
