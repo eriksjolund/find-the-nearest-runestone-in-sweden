@@ -4,7 +4,8 @@ Wikipedia: [Runestones](https://en.wikipedia.org/wiki/Runestone)
 
 [Runestone density map of Sweden](https://upload.wikimedia.org/wikipedia/commons/a/ac/Rune_stone_density-km2-Sweden.svg)
 
-# How to find the nearest runestone in Sweden
+## How to find the nearest runestone in Sweden
+### Alternative 1: Draw the search area in the map
 
 1. Go to https://app.raa.se/open/fornsok/
 2. Zoom into the map to the location where you are located (assuming you are now in Sweden).
@@ -22,3 +23,25 @@ the starting point (the first polygon corner). Now the green button _KLAR_ gets 
 10. In the drop-down list _Egenskaper_, choose _Belägenhet: Runsten_.
 11. Click the green button _SÖK_.
 12. Your search results are now displayed. The runestones are displayed on the map as circles in blue-green color (cyan) with the letter _R_ in the middle. The runestones are also listed as text entries in the left side menu.
+
+
+
+### Alternative 2: Write the name of the search area
+
+The possible types of area names are:
+
+* [County](https://en.wikipedia.org/wiki/Counties_of_Sweden) (_län_ in Swedish). There are 21 one of them in Sweden.
+* [Municipality](https://en.wikipedia.org/wiki/Municipalities_of_Sweden) (_kommun_ in Swedish). There are 290 of them in Sweden.
+* [Province](https://en.wikipedia.org/wiki/Provinces_of_Sweden) (_landskap_ in Swedish). There are 25 of them in Sweden.
+* [Socken](https://en.wikipedia.org/wiki/Socken).
+
+1. Go to https://app.raa.se/open/fornsok/
+2. Click _SÖK_ in the upper right corner.
+3. Click _Sök lämning_ 
+4. In the text field _Ange geografiskt område_, write the name of the area.
+5. In the drop-down list _Filtrera på kategori_, choose _Ristningar, hällmålningar och minnesmärken_.
+6. In the drop-down list _Lämningstyp_, choose _Runristning_.
+7. In the drop-down list _Egenskaper_, choose _Belägenhet: Runsten_.
+8. Click the green button _SÖK_.
+9. Your search results are now displayed. The runestones are displayed on the map as circles in blue-green color (cyan) with the letter _R_ in the middle. The runestones are also listed as text entries in the left side menu.
+
