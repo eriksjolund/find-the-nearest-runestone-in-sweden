@@ -5,6 +5,9 @@ Wikipedia: [Runestones](https://en.wikipedia.org/wiki/Runestone)
 [Runestone density map of Sweden](https://upload.wikimedia.org/wikipedia/commons/a/ac/Rune_stone_density-km2-Sweden.svg)
 
 ## How to find the nearest runestone in Sweden
+The [_Swedish National Heritage Board_](https://www.raa.se/in-english/) (_Riksantikvarieämbetet_ in Swedish) provides a [database](https://app.raa.se/open/fornsok/) for for archaeological sites and monuments.
+([About the database](https://www.raa.se/in-english/digital-services/about-fornsok/)).
+
 ### Alternative 1: Draw the search area in the map
 
 1. Go to https://app.raa.se/open/fornsok/
